@@ -76,61 +76,61 @@ padding-top: 40px;
     
     width: 25px;
     height: 25px;
-    background: url("/images/facebook.svg");
+    background: url("images/facebook.svg");
   
 }
 
 .tweet{
     width: 23px;
     height: 23px;
-    background: url("/images/twitter.svg");
+    background: url("images/twitter.svg");
 }
 
 .you{
     width: 20px;
     height: 20px;
-    background: url("/images/youtube.svg");
+    background: url("images/youtube.svg");
 }
 
 .insta{
     width: 20px;
     height: 20px;
-    background: url("/images/instagram.svg");
+    background: url("images/instagram.svg");
 }
 
 .spotify{
     width: 20px;
     height: 20px;
-    background: url("/images/spotify.svg");
+    background: url("images/spotify.svg");
 }
 
 .login{
     width: 20px;
     height: 20px;
-    background: url("/images/user.svg");
+    background: url("images/user.svg");
 }
 .fb:hover{
-    background:url(/images/facebookHover.svg)
+    background:url("images/facebookHover.svg")
 }
 
 .tweet:hover{
-    background:url(/images/twitterHover.svg)
+    background:url("images/twitterHover.svg")
 }
 
 .you:hover{
-    background:url(/images/youtubeHover.svg)
+    background:url("images/youtubeHover.svg")
 }
 
 .insta:hover{
-    background:url(/images/instagramHover.svg)
+    background:url("images/instagramHover.svg")
 }
 
 .spotify:hover{
-    background:url(/images/spotifyHover.svg)
+    background:url("images/spotifyHover.svg")
 }
 
 .login:hover{
-    background:url(/images/userHover.svg)
+    background:url("images/userHover.svg")
 }
 
 .bodycontain{
